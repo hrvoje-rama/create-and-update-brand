@@ -22,5 +22,5 @@ The tests focus on:
 ## Test Reports
 
 - [HTML Report](https://hrvoje-rama.github.io/create-and-update-brand/reports/extent-report.html)
-- [PDF Report](reports/extent-report.pdf)
+- [PDF Report](https://hrvoje-rama.github.io/create-and-update-brand/reports/extent-report.pdf)
 
